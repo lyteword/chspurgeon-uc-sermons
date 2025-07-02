@@ -2,13 +2,13 @@
 
 ## **Overview**
 
-This project presents ultra concise, markdown-formatted versions of Charles H. Spurgeon’s sermons—each distilled to 500 words or less. Designed for quick recitation and focused exposition, these summaries capture the heart of Spurgeon’s messages, making them ideal for rapid study, teaching, and devotional use.
+This project presents ultra concise, markdown-formatted versions of Charles H. Spurgeon’s sermons—each distilled to 250 words or less. Designed for quick recitation and focused exposition, these summaries capture the heart of Spurgeon’s messages, making them ideal for rapid study, teaching, and devotional use.
 
 ## **Project Features**
 
-- Hundreds of Spurgeon’s sermons, each summarized in 500 words or fewer
+- Spurgeon’s sermons, each summarized in 250 words or fewer
 - Faithful to the original texts, preserving key themes and scriptural insights
-- Organized by volume, date, and scripture reference for easy navigation
+- Organized by volume and date for easy navigation
 - Markdown format for readability, compatibility, and integration with modern tools
 - Perfect for quick reference, sermon preparation, or sharing in small group settings
 
